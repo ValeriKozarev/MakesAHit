@@ -1,0 +1,3 @@
+# MakesAHit
+
+This is part of a class project that I contributed to called MakesAHit. For our Intro to Automated Learning and Data Analysis class we had to design and carry out a project that enlisted some of the techniques we had learned in class. The first part (this repo) uses the Random Forest algorithm for analyzing and grouping songs from a Spotify playlist based on song features. The second part which was written by our teammate uses a genetic algorithm for generating Spotify playlists based on that analysis. You could give the program a song and it will generate a playlist of N songs which it deems similar enough. We had mixed results but we learned so much in the process!
